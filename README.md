@@ -9,4 +9,4 @@ Installation:
 
 wget -N https://raw.githubusercontent.com/quantz75/gincoinupdate/master/masternodeginscript.sh
 
-bash gin_install.sh
+bash masternodeginscript.sh
